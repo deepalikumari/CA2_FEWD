@@ -1,0 +1,43 @@
+/* Apply styles to the body */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+    background-color: azure;
+    
+}
+i{
+    
+    font-size: 1.5rem;
+    color: darkblue;
+}
+/* Apply styles to paragraphs */
+p {
+    margin-bottom: 20px;
+}
+
+/* Apply styles to headings */
+h1 {
+    font-size: 24px;
+    color: maroon;
+    margin-bottom: 10px;
+}
+
+/* Apply styles to ordered lists */
+ol {
+    margin-left: 20px;
+}
+
+/* Apply styles to list items */
+li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+/* Apply styles to strong elements within list items */
+strong {
+    font-weight: bold;
+    font-size: large;
+}
+
+
